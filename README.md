@@ -60,5 +60,5 @@ To leverage my extensive knowledge and hands-on experience in penetration testin
 </div>
 
 ## Projects
-- <a href="https://tryhackme.com/r/p/karimayman481">TryHackMe</a>
+- <a href="https://github.com/karim481/TryHackMe-Labs/blob/main/README.md">TryHackMe Labs</a>
 - <a href="https://github.com/karim481/Metasploitable2-Linux-Lab">Metasploitable2-Linux-Lab</a>
